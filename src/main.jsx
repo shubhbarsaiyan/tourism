@@ -12,7 +12,7 @@ import Layout from "./Router.jsx";
 import Home from "./components/Home.jsx";
 import Login from "./components/login.jsx";
 import Signup from "./components/Signup.jsx";
-import Chatbot from "./components/Chatbot.jsx";
+import Chatbot from "./components/ChatBot.jsx";
 
 import AOS from "aos";
 import "aos/dist/aos.css";
